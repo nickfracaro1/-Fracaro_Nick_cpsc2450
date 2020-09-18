@@ -1,0 +1,5 @@
+This program generates a random radius between 0 and 50
+
+The program then performs the calculations needed to generate the circumfrence and the area based off the given radius.
+
+The area and circumfrence are rounded down to the lowest whole number to keep from displaying repeating decimal numbers
